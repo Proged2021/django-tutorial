@@ -6,3 +6,4 @@ urlpatterns = [
     path("event/", include("event.urls")),
     path("admin/", admin.site.urls),
 ]
+
